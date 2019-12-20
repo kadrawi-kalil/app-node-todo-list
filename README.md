@@ -2,7 +2,7 @@
 
 ```diff
 - text in red
-- ###  singin
+ -  singin
 ```
 
 ![alt text](https://github.com/kadrawi-kalil/app-node-todo-list/blob/master/images/singin.png)
