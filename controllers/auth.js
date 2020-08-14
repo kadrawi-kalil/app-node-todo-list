@@ -70,7 +70,7 @@ exports.postSignup = (req, res) => {
      return user.save();
    })
    .then(result => {
-     res.send('login ok '+result);
+     res.send(result);
      // return transporter.sendMail({
      //   to: email,
      //   from: 'shop@node-complete.com',
